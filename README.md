@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wafi981
 - 👀 I’m interested in Cloud and 5G!
-- 🌱 I’m currently learning how to have a balanaced life!
-- 💞️ I’m looking to collaborate on everything relevant to my field of cloud and 5G
+- 🌱 I’m currently learning how to have a balanaced life
+- 💞️ I’m looking to contribute to more projects on Github
 - 🥅 I love to play and follow football
 
 
