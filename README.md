@@ -5,9 +5,6 @@
 - 🥅 I love to play and follow football
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Wafi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=wafi981&hide_border=true&theme=redical)
 
 
 <!---
